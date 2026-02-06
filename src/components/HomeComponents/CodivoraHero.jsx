@@ -131,10 +131,10 @@ function CodivoraHero() {
 
             {/* CTA Buttons */}
             <div className='flex flex-wrap gap-4 pt-4'>
-              <button className='px-8 py-3 bg-gradient-to-r from-blue-600 to-cyan-500 text-white font-semibold rounded-lg hover:shadow-lg transform hover:-translate-y-0.5 transition-all duration-200 flex items-center gap-2'>
+              {/* <button className='px-8 py-3 bg-gradient-to-r from-blue-600 to-cyan-500 text-white font-semibold rounded-lg hover:shadow-lg transform hover:-translate-y-0.5 transition-all duration-200 flex items-center gap-2'>
                 Get Started Free
                 <ArrowRight className='w-5 h-5' />
-              </button>
+              </button> */}
               {/* <button className='px-8 py-3 bg-white text-gray-700 font-semibold rounded-lg border border-gray-300 hover:bg-gray-50 transition-all duration-200 shadow-sm'>
                 Schedule Demo
               </button> */}
